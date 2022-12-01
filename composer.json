@@ -1,0 +1,16 @@
+{
+    "name": "jaravel/laravel-paypal",
+    "description": "PayPal's PHP SDK for REST APIs",
+    "license": "Apache-2.0",
+    "require": {
+        "php": "^8.1",
+    },
+    "autoload": {
+        "psr-0": {
+            "PayPal": "lib/"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
